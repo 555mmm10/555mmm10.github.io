@@ -7,6 +7,6 @@ categories: task
 We want to learn how to use coreML by taking a stab on an app like Silicon Valley’s “Seefood.” We found a nifty guide on [reddit][tutorial] that describes how he used an AWS server to train a program to identify types of food.
 
 Here's a neat image of us and some friends
-![My Neat Image](/_images/coding-group.jpg)
+![My Neat Image]({{ site.url }}/images/coding-group.jpg)
 
 [tutorial]: http://reza.codes/2017-07-29/how-to-train-your-own-dataset-for-coreml/
